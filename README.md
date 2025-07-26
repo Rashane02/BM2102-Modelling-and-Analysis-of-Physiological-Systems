@@ -9,7 +9,7 @@
 
 ## 📖 Overview
 
-This repository contains a comprehensive collection of biomedical engineering assignments focusing on computational modeling and simulation of various physiological systems. The projects explore respiratory mechanics, cardiovascular dynamics, neuronal electrical properties, and compartmental system analysis using advanced simulation tools.
+This repository contains biomedical engineering assignments focusing on computational modeling and simulation of various physiological systems. The projects explore respiratory mechanics, cardiovascular dynamics, neuronal electrical properties, and compartmental system analysis using advanced simulation tools.
 
 ## 🔬 Assignment Outlines
 
